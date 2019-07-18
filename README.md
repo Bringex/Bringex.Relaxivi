@@ -16,6 +16,7 @@
 8. Мы не отправляем на электронную почту рассылку новостей
 
 Требуемые разрешения
+
 Доступ к интернету используется для загрузки видео и музыки
 
 Контакты
@@ -39,6 +40,7 @@ Privacy policy
 8. We do not send email newsletter
 
 Required Permissions
+
 Internet access is used to download videos and music
 
 Contacts
