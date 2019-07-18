@@ -1,5 +1,5 @@
 Политика конфиденциальности
-1. Мы предоставляем данные рекламной компании admob. А так же используем счетчики AppMetrica для улучшения производительности приложения. 
+1. Мы предоставляем данные рекламной компании admob ( Google Mobile Ads SDK ). А так же используем счетчики AppMetrica для улучшения производительности приложения. 
 
 2. Мы не запрашиваем Ваш адрес электронной почты, телефон или какую нибудь информацию о Вас
 
@@ -22,7 +22,7 @@
 e-mail: relaxingapp2@gmail.com, ezforlive2@gmail.com
 
 Privacy policy
-1. We provide data to the admob advertising company. And use the counters AppMetrica to improve application performance.
+1. We provide data to the admob advertising company (  Google Mobile Ads SDK ). And use the counters AppMetrica to improve application performance.
 
 2. We do not request your email address, telephone number or any information about you
 
