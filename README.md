@@ -20,7 +20,7 @@
 Доступ к интернету используется для загрузки видео и музыки
 
 Контакты
-e-mail: relaxingapp2@gmail.com, ezforlive2@gmail.com
+e-mail: 
 
 Privacy policy
 1. We provide data to the admob advertising company (  Google Mobile Ads SDK ). And use the counters AppMetrica to improve application performance.
@@ -44,4 +44,4 @@ Required Permissions
 Internet access is used to download videos and music
 
 Contacts
-e-mail: relaxingapp2@gmail.com, ezforlive2@gmail.com
+e-mail: 
